@@ -1,13 +1,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5749707&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+Sunnyside Union Elementary School District is a one K-8 school district, serving 350 students. The purpose of this Educational Technology Plan is for Sunnyside students in grades 6-8 to conceptionally understand the structure of a Computer Science course, and get exposure to careers in Computer Science. Computer Science will allow Sunnyside students to gain life skills by focusing on problem-solving and programming, with the expectation that students will be inspired to be creative. 
 
 ## Context
 
 ### Course
 
-Describe your course including the name, description, and grade level
+Computer Science practice and concepts in other content areas such as, Math and Science for grades 6-8. 
 
 ### Situation
 
