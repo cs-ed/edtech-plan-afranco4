@@ -7,7 +7,7 @@ The purpose of this Educational Technology Plan is for Sunnyside students in gra
 
 ### Course
 
-Computer Science practice and concepts in other content areas such as, Math and Science for grades 6-8. 
+Computer Science practice and concepts, as well in other content areas such as, Math and Science for grades 6-8. 
 
 ### Situation
 
