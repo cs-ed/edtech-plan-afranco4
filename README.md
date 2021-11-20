@@ -7,7 +7,7 @@ The purpose of this Educational Technology Plan is for Sunnyside students in gra
 
 ### Course
 
-The course will be Computer Science 1 focusing on practice and concepts6, as well as in other content areas such as, Math and Science for grades 6-8. This course will meet four days a week for a 30 minute class period, each trimester. 
+The course will be Computer Science 1 focusing on practice and concepts, as well as in other content areas such as, Math and Science for grades 6-8. This course will meet four days a week for a 30 minute class period, each trimester. 
 
 ### Situation
 
@@ -58,7 +58,7 @@ Apple MacBook Air A1465
   
 ### Application
 
-Computer Science will be an introductory computer science course for 6 - 8th grade students. Mapped to CS standards, computer science will be covering topics such as problem solving, programming, user centered design, and data. Daily lesson plans made up of inquiry-based activities, videos, assessments, and computing tools. The Problem Solving unit is a highly interactive and collaborative introduction to the field of computer science. Through a series of puzzles, challenges, and real world scenarios, students are introduced to a problem solving process and learn how computers input, output, store, and process information. 
+Computer Science will be an introductory computer science course for 6 - 8th grade students. Mapped to CS standards, computer science will be covering topics such as problem solving and programming. Daily lesson plans made up of inquiry-based activities, videos, assessments, and computing tools. The Problem Solving unit is a highly interactive and collaborative introduction to the field of computer science. Through a series of puzzles, challenges, and real world scenarios, students are introduced to a problem solving process and learn how computers input, output, store, and process information. 
 
 ### Impacts
 
