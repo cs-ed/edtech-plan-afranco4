@@ -7,7 +7,7 @@ The purpose of this Educational Technology Plan is for Sunnyside students in gra
 
 ### Course
 
-The course will be Computer Science 1 focusing on practice and concepts, as well as in other content areas such as, Math and Science for grades 6-8. This course will meet four days a week for a 30 minute class period, each trimester. 
+The course will be Computer Science 1 focusing on practice and concepts, as well as in other content areas such as, ELA and ELD for grades 6-8. This course will meet four days a week for a 30 minute class period, each trimester. 
 
 ### Situation
 
@@ -55,12 +55,13 @@ Apple MacBook Air A1465
   * 802.11ac Wireless LAN
   * Bluetooth Wireless 4.0
   * Supports macOS 10.10 or higher
+ 
   
 ### Application
 
-Computer Science 1 will be an introductory computer science course for 6 - 8th grade students. Sunnyside students will choose to learn through video based lessons with different themes like sports, art, and game design. It will also include hands-on lessons and block-based coding in Scratch. Through a series of real world scenarios, projects and challenges, students are introduced to foundational concepts that they will return to repeatedly throughout the course. 
+Computer Science 1 will be an introductory computer science elective course for 6 - 8th grade students. Sunnyside follows a school calendar with trimesters, each lasting 12 weeks. Sunnyside students will choose their learning through video based lessons with different themes like sports, art, and game design. It will also include hands-on lessons and block-based coding in Scratch. Through a series of real world scenarios, projects and challenges, students are introduced to foundational concepts that they will return to repeatedly throughout the course. 
 
-This introductory Computer Science course would begin by having students creating code to tell a story. Students would have a choice on what type of story they would want to tell using code. Learning the basics of coding using Scratch by story telling will engage the student and capture their interest, in telling their story. A form of communication without the student actually speaking. Collaborative in that peers will interact with the story to provide feedback as to what could help the story move forward. Students can begin with setting up characters, move on to setting, then on to dialogue, and finally plot. These story elements through computer science would significantly deepen comprehension and English language development in listening, reading, writing, and speaking. 
+This introductory Computer Science course would begin by having students creating code to tell a story. Students would have a choice on what type of story they would want to tell using code. Learning the basics of coding using Scratch by story telling will engage the student and capture their interest, in telling their story. A form of communication without the student actually speaking. Collaborative in that peers will interact with the story to provide feedback as to what could help the story move forward. Students can begin with setting up characters, move on to setting, then on to dialogue, and finally plot. Now students do not necessarily have to start in that order again with providing choice, students can decide which element to start with. These story elements through computer science would significantly deepen comprehension and English language development in listening, reading, writing, and speaking.
 
 Curriculum will incorporate the Visible Learning Model which is surface, deep, and transfer. Surface learning is a time when students initially are exposed to concepts, skills, and strategies. Deep learning as a period when students consolidate their understanding and apply and extend some surface learning knowledge to support deeper conceptual understanding. Transfer learning is the point at which students take their consolidated knowledge and skills and apply what they know to new scenarios and different contexts. It is also a time when students are able to think metacognitively, reflecting on their own learning and understanding. 
 
